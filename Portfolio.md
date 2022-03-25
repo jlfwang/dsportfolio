@@ -5,4 +5,4 @@ permalink: /portfolio/
 order: 2
 ---
 
-# This is a portfolio
+{% include portfolio.html %}
