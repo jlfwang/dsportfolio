@@ -1,8 +1,17 @@
+---
+layout: post
+title: Wine Classification Challenge
+tags: python, blahhhhh
+excerpt_separator: <!--more-->
+---
+
+*(This is an exercise from [a course on basic machine learning](https://github.com/MicrosoftDocs/ml-basics) by Microsoft)*
+
 Wine experts can identify wines from specific vineyards through smell and taste, but the factors that give different wines their individual charateristics are actually based on their chemical composition.
 
-In this challenge, you must train a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety).
+In this challenge, I will train a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety).
 
-*(This is an exercise from [a course on basic machine learning](https://github.com/MicrosoftDocs/ml-basics) sponsored by Microsoft)*
+<!--more-->
 
 > **Citation**: The data used in this exercise was originally collected by Forina, M. et al.
 >

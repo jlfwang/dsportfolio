@@ -2,12 +2,15 @@
 layout: post
 title: Why We Sleep
 tags: [book, health]
+excerpt_separator: <!--more-->
 ---
 
 
+I remember when I was little, I would hear from my mom all these tricks that she used to make herself fall asleep and I never understood why being able to sleep through the night was such a big deal until I myself started having my own episodes of insomnia, which I guess is an unfortunate sign of becoming a grown-up. 
 
+<!--more-->
 
-I remember when I was little, I would hear from my mom all these tricks that she used to make herself fall asleep and I never understood why being able to sleep through the night was such a big deal until I myself started having my own episodes of insomnia, which I guess is an unfortunate sign of becoming a grown-up. At some point, sleep became something I needed to plan for, and I was concerned with its quality and duration, as I noticed how they affect my functioning during the daytime. I started reading online about different techniques in hopes of improving my sleep quality, but it is hard to piece together a complete picture of exactly how our brain is wired to induce sleep and the fundamental mechanism of how sleep is related to our overall health when you are just reading bits and pieces from random unverified sources. 
+At some point, sleep became something I needed to plan for, and I was concerned with its quality and duration, as I noticed how they affect my functioning during the daytime. I started reading online about different techniques in hopes of improving my sleep quality, but it is hard to piece together a complete picture of exactly how our brain is wired to induce sleep and the fundamental mechanism of how sleep is related to our overall health when you are just reading bits and pieces from random unverified sources. 
 
 <p align="center">
   <img src="https://images-na.ssl-images-amazon.com/images/I/91JxEYMbYbL.jpg" alt="book cover" width="500"/>
