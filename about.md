@@ -14,5 +14,8 @@ I love learning,
 mostly through finding patterns in documented observations. 
 <br>
 <br>
-Although recently I've grown to appreciate qualitative approaches as well, as I started to <a href="url">practice meditation</a> for 2 minutes a day.  (^-^)v
+Although recently I've grown to appreciate qualitative approaches as well, as I started to <a href="url">practice meditation</a> for 2 minutes a day.  
+<br>
+(^-^)v
 </div>
+<br>
