@@ -1,4 +1,5 @@
 # A Data Science Portfolio
 
-Some Description!
-More description!
+
+![cute little data](https://raw.githubusercontent.com/JessiDub/dsportfolio/main/cute%20little%20data.jpg)
+Here's where I store the nice docile dataset used for training
