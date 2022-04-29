@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/dsportfolio"
-url: "https://jessidub.github.io/"
+url: "https://jessicalifangwang.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -18,7 +18,7 @@ theme_settings:
   #   <p> Lalalalala~~~</p>
   #header_text_feature_image: assets/img/sample_feature_img.png
   footer_text: >
-   © 2021 by Jessica Wang (Lifang). Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   © 2021 by Jessica Lifang Wang. 
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"

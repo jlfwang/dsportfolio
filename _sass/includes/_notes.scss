@@ -1,0 +1,23 @@
+#book_holder {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 0 auto;
+    grid-gap:10px;
+}
+
+#book_holder div{
+    grid-column: span 1;
+    grid-row: span 2;
+    text-align: center;
+    padding:10px;
+}
+
+.book {
+    grid-column: span 1;
+    grid-row: span 2;
+}
+
+.bookcover{
+    height: 250px;
+    width: 250px;
+}
